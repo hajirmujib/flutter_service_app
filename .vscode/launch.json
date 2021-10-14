@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "service_laptop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "service_laptop (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+    //     {
+    //         "name":"my phone",
+    //         "request": "launch",
+    //         "type": "dart",
+    //         "deviceId": "BH90F7GQ5U"
+    //     },
+    //     {
+    //         "name": "iphone",
+    //         "request": "launch",
+    //         "type": "dart",
+    //         "deviceId": "DB852EB3-0D2F-4477-A4D4-ABCD5C7E3526"
+    //     }
+    // ],
+    // "compounds": [
+    //     {
+    //         "name": "All Devices",
+    //         "configurations": ["my phone","iphone"]
+    //     }
+    ]
+}
